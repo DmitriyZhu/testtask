@@ -2,7 +2,7 @@
 
 namespace src\Integration;
 
-class DataProviderNewIntegration
+class DataProviderNewIntegration extends DataProvider
 {
     private $host;
     private $user;
